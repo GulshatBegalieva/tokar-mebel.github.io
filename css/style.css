@@ -902,6 +902,7 @@ body {
   position: relative;
   padding-top: 142px;
   padding-bottom: 147px;
+  overflow-x: hidden;
 }
 
 .title__margin:not(:last-child) {
